@@ -1,0 +1,15 @@
+NAME: Vidulash Rajaratnam
+SNUM: 8190398
+COURSE: CSI2120
+
+For Comprehensive Assignment Part 1 and Part 2:
+Here is the equation used for alternative cost:
+
+
+The Method used was Detected Box AREA
+
+Cost = |(Frame1WidthX * Frame1HeightY) - (Frame2WidthX * Frame2HeightY)|
+
+Explanation: Calculated the area of frame1 by multiplying its width by its height.
+Then calculated the area of frame2. Found the difference between them as an absolute
+value.
